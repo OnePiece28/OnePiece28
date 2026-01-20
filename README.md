@@ -1,70 +1,73 @@
-<h1 align="center">Hi 👋, I'm Rohit Gupta</h1>
-<h3 align="center">Full-Stack Developer | Software Engineer</h3>
-
-<p align="center">
-  I build scalable, user-focused web applications with clean architecture
-  and modern technologies.
+# Hi 👋, I'm Rohit Gupta
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&width=435&lines=Full-Stack+Developer;Software+Engineer;MERN+Stack+Expert" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohit-gupta-281366261/">LinkedIn</a> •
-  <a href="https://your-portfolio-link">Portfolio</a> •
-  <a href="mailto:rohitshashikantgupta08@gmail.com">Email</a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science Undergraduate  
-- 💻 MERN Stack Developer  
-- 🧠 Strong in problem-solving & clean code  
-- 🚀 Building **CodeVerse** — a developer-centric social platform  
-
----
-
-## ⚙️ Tech Stack
+> I build scalable, user-focused web applications with clean architecture and modern technologies.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,jwt,git,github,vite" />
+  <a href="https://www.linkedin.com/in/rohit-gupta-281366261/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rohitshashikantgupta08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🛠 Featured Project
-
-### 🚀 CodeVerse
-Developer-centric social platform focused on real code, real projects, and meaningful collaboration.
-
-**Tech:** React, Tailwind CSS, Node.js, Express, MongoDB  
-**Deployment:** Vercel / Render  
-
-🔗 *Project Link:* https://github.com/your-username/codeverse
+### 🚀 About Me
+- 🎓 **Education:** Computer Science Undergraduate
+- 💻 **Main Squeeze:** MERN Stack Development
+- 🧠 **Focus:** Problem-solving, Clean Code, & Scalable Architecture
+- 🚀 **Current Hustle:** Building **CodeVerse** — a developer-centric social platform
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,ts,git,vercel,docker" />
+  </a>
+</p>
+
+---
+
+### 🛠 Featured Project
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <h3>🚀 CodeVerse</h3>
+        <p>Developer-centric social platform focused on real code, real projects, and meaningful collaboration.</p>
+        <p><b>Tech Stack:</b> React, Tailwind CSS, Node.js, Express, MongoDB</p>
+        <a href="https://github.com/[YourGitHubUsername]/codeverse">
+          <img src="https://img.shields.io/badge/View_Repo-blue?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=codeverse&theme=radical" alt="CodeVerse Card" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical&border_radius=10" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical&border_radius=10" width="100%" />
 </p>
+
+---
+
+### 🤝 Let’s Connect
+- 💼 **LinkedIn:** [rohit-gupta](https://www.linkedin.com/in/rohit-gupta-281366261/)
+- 🌐 **Portfolio:** [Visit My Site](https://your-portfolio-link)
+- 📧 **Email:** [rohitshashikantgupta08@gmail.com](mailto:rohitshashikantgupta08@gmail.com)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
-
----
-
-## 🧠 What I Focus On
-
-- Writing clean, maintainable code  
-- Building full-stack applications  
-- Learning system design & scalable architecture  
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: [https://www.linkedin.com/in/rohit-gupta-281366261/](https://www.linkedin.com/in/rohit-gupta-281366261/)
-- 🌐 Portfolio: https://your-portfolio-link  
-- 📧 Email: rohitshashikantgupta08@gmail.com 
