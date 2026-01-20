@@ -43,7 +43,7 @@
         </a>
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnePiece28&repo=codeverse&theme=radical" alt="CodeVerse Card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnePiece28&repo=Code-Verse&theme=radical" alt="CodeVerse Card" />
       </td>
     </tr>
   </table>
