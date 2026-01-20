@@ -38,7 +38,7 @@
         <h3>🚀 CodeVerse</h3>
         <p>Developer-centric social platform focused on real code, real projects, and meaningful collaboration.</p>
         <p><b>Tech Stack:</b> React, Tailwind CSS, Node.js, Express, MongoDB</p>
-        <a href="https://github.com/OnePiece28/codeverse">
+        <a href="https://github.com/OnePiece28/Code-Verse.git">
           <img src="https://img.shields.io/badge/View_Repo-blue?style=for-the-badge&logo=github" />
         </a>
       </td>
