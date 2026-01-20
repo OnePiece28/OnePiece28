@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-lin](https://www.linkedin.com/in/rohit-gupta-281366261/)k">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/rohit-gupta-281366261/">LinkedIn</a> •
   <a href="https://your-portfolio-link">Portfolio</a> •
   <a href="mailto:rohitshashikantgupta08@gmail.com">Email</a>
 </p>
