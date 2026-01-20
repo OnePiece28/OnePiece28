@@ -43,7 +43,7 @@
         </a>
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=codeverse&theme=radical" alt="CodeVerse Card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=[OnePiece28]&repo=codeverse&theme=radical" alt="CodeVerse Card" />
       </td>
     </tr>
   </table>
@@ -53,12 +53,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[OnePiece28]&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[OnePiece28]&layout=compact&theme=radical&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical&border_radius=10" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[OnePiece28]&theme=radical&border_radius=10" width="100%" />
 </p>
 
 ---
