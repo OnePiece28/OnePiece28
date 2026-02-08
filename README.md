@@ -44,7 +44,6 @@
       </td>
       <td width="50%">
         <img width="1900" height="908" alt="image" src="https://github.com/user-attachments/assets/08a964fb-6024-4899-9982-a9262087e06a" />
-
       </td>
     </tr>
   </table>
