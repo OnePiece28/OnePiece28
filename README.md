@@ -11,6 +11,8 @@
   <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
   <a href="https://leetcode.com/u/QTxENzpR2v/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=OnePiece28&label=Profile%20Views&style=flat-square" alt="profile views" />
 
 ---
 
