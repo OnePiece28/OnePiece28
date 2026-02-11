@@ -79,7 +79,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img width="1652" height="842" alt="image" src="https://github.com/user-attachments/assets/3de80692-05b7-4e8c-b7ae-ae1d6829aef0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnePiece28&layout=compact&theme=radical&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
