@@ -41,7 +41,7 @@
         <a href="https://github.com/OnePiece28/Code-Verse.git">
           <img src="https://img.shields.io/badge/View_Repo-blue?style=for-the-badge&logo=github" />
         </a>
-        <a href="https://update-gradify-ai-carrer-coach.vercel.app/">
+        <a href="https://code-verse-phi.vercel.app/sign-in">
           <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </td>
