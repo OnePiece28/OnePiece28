@@ -17,7 +17,7 @@
 - 🎓 **Education:** Computer Science Undergraduate
 - 💻 **Main Squeeze:** MERN Stack Development
 - 🧠 **Focus:** Problem-solving, Clean Code, & Scalable Architecture
-- 🚀 **Current Hustle:** Building **CodeVerse** — a developer-centric social platform
+- 🚀 **Current Hustle:** Building **Gradify** — AI based Carrer Recommnendation Sysytem
 
 ---
 
