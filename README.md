@@ -65,7 +65,7 @@
         </a>
       </td>
       <td width="50%">
-        <img width="1900" height="908" alt="Gradify Screenshot" src="PASTE_YOUR_GRADIFY_SCREENSHOT_LINK_HERE" />
+        <img width="1652" height="842" alt="image" src="https://github.com/user-attachments/assets/3de80692-05b7-4e8c-b7ae-ae1d6829aef0" />
       </td>
     </tr>
   </table>
