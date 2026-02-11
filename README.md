@@ -48,6 +48,28 @@
     </tr>
   </table>
 </div>
+<br/>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <h3>🎓 Gradify – AI Career Coach</h3>
+        <p>AI-powered career guidance platform that delivers personalized career recommendations through adaptive assessments and data-driven insights.</p>
+        <p><b>Tech Stack:</b> Next.js, Tailwind CSS, Node.js, Express, MongoDB, Prisma</p>
+        <a href="https://github.com/OnePiece28/Gradify-AI_Carrer_Coach.git">
+          <img src="https://img.shields.io/badge/View_Repo-blue?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://update-gradify-ai-carrer-coach.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </td>
+      <td width="50%">
+        <img width="1900" height="908" alt="Gradify Screenshot" src="PASTE_YOUR_GRADIFY_SCREENSHOT_LINK_HERE" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
