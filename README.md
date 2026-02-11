@@ -48,7 +48,8 @@
 
 #### ☁️ Cloud & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,render,aws" />
+  <img src="https://skillicons.dev/icons?i=vercel,aws" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
 #### 🧰 Tools
