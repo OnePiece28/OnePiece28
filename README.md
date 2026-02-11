@@ -25,10 +25,35 @@
 ---
 
 ### ⚙️ Tech Stack
+
+#### 🧩 Languages
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,git,vercel" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,cpp" />
+</p>
+
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+#### 🛠 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+#### 🗄 Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+#### ☁️ Cloud & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,render,aws" />
+</p>
+
+#### 🧰 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
