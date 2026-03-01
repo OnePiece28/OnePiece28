@@ -130,10 +130,6 @@
   src="https://leetcard.jacoblin.cool/QTxENzpR2v"
   alt="LeetCode Stats"
 />
-<iframe
+<img
   src="https://leetcard.jacoblin.cool/QTxENzpR2v?theme=dark&ext=heatmap"
-  title="LeetCode Heatmap"
-  width="100%"
-  height="300"
-  style={{ border: "none" }}
 />
