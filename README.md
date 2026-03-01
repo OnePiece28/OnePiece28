@@ -130,3 +130,8 @@
   src="https://leetcard.jacoblin.cool/QTxENzpR2v"
   alt="LeetCode Stats"
 />
+<img
+  src="https://leetcode-activity-stats.vercel.app/api?username=QTxENzpR2v&theme=dark"
+  alt="LeetCode Heatmap"
+  style={{ maxWidth: "100%" }}
+/>
