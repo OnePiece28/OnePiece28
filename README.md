@@ -125,11 +125,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
-
-<img
-  src="https://leetcard.jacoblin.cool/QTxENzpR2v"
-  alt="LeetCode Stats"
-/>
-<img
-  src="https://leetcard.jacoblin.cool/QTxENzpR2v?theme=dark&ext=heatmap"
-/> 
